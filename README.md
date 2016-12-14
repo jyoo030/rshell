@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was to create a basic shell using C++. It has basic shell functionality, such as running commands and running commands with the connectors &&, ||, and ;. 
+This project was to create a basic shell using C++. It has basic shell functionality, such as running commands and running commands with the connectors &&, ||, and ;. It has since been updated to include cd functionality 
 
 ##List of Known Bugs:
 	* When enter is pressed on an empty line, it tries to input that as a command and reprint the $. 
